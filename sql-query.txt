@@ -1,0 +1,67 @@
+-- Create the ScholarlyAppDb database
+CREATE DATABASE ScholarlyAppDb;
+GO
+
+-- Switch to the ScholarlyAppDb database
+USE ScholarlyAppDb;
+GO
+
+-- Create the Users table
+CREATE TABLE Users (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Username NVARCHAR(100) NOT NULL,
+    Password NVARCHAR(100) NOT NULL,
+    Role NVARCHAR(50) NOT NULL,
+    Email NVARCHAR(100) NOT NULL
+);
+GO
+
+-- Create the Scholarships table
+CREATE TABLE Scholarships (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    Description NVARCHAR(MAX),
+    Criteria NVARCHAR(MAX),
+    Amount DECIMAL(18, 2) NOT NULL,
+    Deadline DATE NOT NULL
+);
+GO
+
+-- Create the Applications table
+CREATE TABLE Applications (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    StudentID INT NOT NULL,
+    ScholarshipID INT NOT NULL,
+    Status NVARCHAR(50) NOT NULL,
+    DateSubmitted DATETIME NOT NULL,
+    GeneralAverage DECIMAL(5, 2) NOT NULL,
+    Course NVARCHAR(100) NOT NULL,
+    School NVARCHAR(100) NOT NULL,
+    FOREIGN KEY (StudentID) REFERENCES Users(ID),
+    FOREIGN KEY (ScholarshipID) REFERENCES Scholarships(ID)
+);
+GO
+
+-- Create the Reviews table
+CREATE TABLE Reviews (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    ApplicationID INT NOT NULL,
+    ReviewerID INT NOT NULL,
+    Rating INT NOT NULL,
+    Comments NVARCHAR(MAX),
+    DateReviewed DATETIME NOT NULL,
+    FOREIGN KEY (ApplicationID) REFERENCES Applications(ID),
+    FOREIGN KEY (ReviewerID) REFERENCES Users(ID)
+);
+GO
+
+-- Create the Notifications table
+CREATE TABLE Notifications (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    UserID INT NOT NULL,
+    Message NVARCHAR(MAX) NOT NULL,
+    DateSent DATETIME NOT NULL,
+    IsRead BIT NOT NULL,
+    FOREIGN KEY (UserID) REFERENCES Users(ID)
+);
+GO

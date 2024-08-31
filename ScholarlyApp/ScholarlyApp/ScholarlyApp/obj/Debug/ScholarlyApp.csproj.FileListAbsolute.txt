@@ -1,0 +1,34 @@
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.exe
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\bin\Debug\MaterialSkin.dll
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.exe.config
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.AssemblyReference.cache
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.LoginForm.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.MyApplications.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.Properties.Resources.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.Register.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.ScholarshipsList.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.UserDashboard.resources
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.GenerateResource.cache
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.CoreCompileInputs.cache
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\Scholarl.F79D9A87.Up2Date
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.exe
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.pdb
+C:\Users\Bervil Bernal\source\repos\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.pdb
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.exe
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.exe.config
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.AddScholarship.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.AdminDashboard.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.LoginForm.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.MyApplications.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.Register.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.ScholarshipsList.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.UserDashboard.resources
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\Scholarl.F79D9A87.Up2Date
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.exe
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\obj\Debug\ScholarlyApp.pdb
+C:\Users\Admin\Downloads\OOP final assessment\ScholarlyApp\ScholarlyApp\ScholarlyApp\bin\Debug\ScholarlyApp.pdb
